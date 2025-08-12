@@ -10,3 +10,5 @@ In this project I have used worked on CRUD operations using python and SQLIT
 
 [Go to Google](google.com) to learn more about CRUD operation 
 - Read operation
+
+-I don't know about python
