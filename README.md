@@ -9,3 +9,5 @@ In this project I have used worked on CRUD operations using python and SQLIT
 - Step2
 
 [Go to Google](google.com) to learn more about CRUD operation 
+
+-I don't know about python
